@@ -6,6 +6,10 @@ the tiles to their original state.
 
 To facilitate the task, the tile in the top left corner will not be shifted nor rotated. 
 
+<img width="789" height="790" alt="image" src="https://github.com/user-attachments/assets/c28dfce4-cfb4-45c6-a778-bc029034e5ff" />
+
+<img width="789" height="790" alt="image" src="https://github.com/user-attachments/assets/6b18c51b-b0f8-458f-92b9-f656a62077e1" />
+
 ## Overview
 
 Much of this is demonstrated in the Overview_of_Puzzles.ipynb notebook.
@@ -13,6 +17,7 @@ Much of this is demonstrated in the Overview_of_Puzzles.ipynb notebook.
 - Load an image
 - Split the image into equal-sized square pieces
 - Randomly shuffle the squares
+- Please use python 3.11.7 and the create_virtual_env.py to generate a virtual env. with the required modules.
 
 Your task: 
 - Train a model to predict which tile shares a boundary with another tile
