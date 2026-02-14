@@ -33,4 +33,5 @@ Your task:
 - Develop a data strategy to train the model
 - Design and train a model to  identify which tiles should be next to each other
 - Use your model to create a method to recreate the original image from the shuffled tile
-- When you are done MAKE A PR to this repo!
+
+## When you are done MAKE A PR to this repo!
