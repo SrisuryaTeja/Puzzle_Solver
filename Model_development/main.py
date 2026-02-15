@@ -20,9 +20,9 @@ def main():
     set_seed(42)
 
     image_paths = [
-        r"D:\srisurya\Ml_projects\FaceFirst\Puzzle_Solver\City_Scape.jpg",
-        r"D:\srisurya\Ml_projects\FaceFirst\Puzzle_Solver\dock.jpg",
-        r"D:\srisurya\Ml_projects\FaceFirst\Puzzle_Solver\Forrest.jpg"
+        "City_Scape.jpg",
+        "dock.jpg",
+        "Forrest.jpg"
     ]
 
     # TRAIN

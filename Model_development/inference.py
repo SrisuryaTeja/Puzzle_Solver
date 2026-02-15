@@ -172,7 +172,7 @@ def main():
     reset_id_generators()  
 
     puzzle = Image_Puzzle(
-        r"D:\srisurya\Ml_projects\FaceFirst\Puzzle_Solver\Forrest.jpg"
+        "Forrest.jpg"
     )
 
     pieces = puzzle.split_into_grid(4, randomize=True)
